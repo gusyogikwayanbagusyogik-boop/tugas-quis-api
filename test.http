@@ -1,0 +1,19 @@
+
+
+
+GET http://localhost/uts_240030275/api/mahasiswa.php
+
+{
+    "nama": "Mahasiswa Update",
+    "kode_jurusan": "Ti",
+    "gender": "laki laki",
+    "tempat": "Tabanan",
+    "tanggal_lahir": "2005-05-10",
+    "alamat": "Tabanan",
+    "email": "update@gmail.com",
+    "no_hp": "081234567890"
+}
+
+
+
+
